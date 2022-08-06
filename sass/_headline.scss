@@ -1,0 +1,21 @@
+.headline-list{
+	display: flex;
+	gap:32px;
+	justify-content: center;
+}
+.headline-list li{
+	max-height: 323px;
+}
+.headline-hero{
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	color: #151515;
+	margin-left: 18px;
+	margin-top: 70px;
+	margin-bottom: 37px;
+}
+.headline{
+	max-height: 535px;
+	padding-bottom: 73px;
+}

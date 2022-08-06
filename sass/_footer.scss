@@ -1,0 +1,47 @@
+.links h1{
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	padding-top: 64px;
+	padding-bottom: 16px;
+}
+.links p{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19px;
+	padding-bottom: 16px;
+	color: #6A983C;
+}
+.links ul{
+	display: flex;
+	justify-content: space-between;
+}
+.links{
+	padding-bottom: 40px;
+}
+.producttags h1{
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	margin-bottom: 16px;
+}
+.producttags p{
+	font-weight: 600;
+	font-size: 12px;
+	line-height: 18px;
+	background-color:  #F5F5F5;
+	border-radius: 12px;
+	padding: 4px 10px;
+}
+.producttags ul{
+	display: flex;
+	flex-wrap: wrap;
+	gap:16px;
+	padding-bottom: 48px;
+}
+.copyrightmessage{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19px;
+	padding-bottom: 64px;
+}
